@@ -1,0 +1,26 @@
+#portfolio {
+  /* height: 890px; */
+
+  margin-top: 10rem;
+}
+/* div img.projectimage {
+  margin: top 2rem;
+  width: 70%;
+} */
+
+.hangman-main {
+  padding-top: 150px;
+}
+
+.wish-main {
+  padding-top: 100px;
+}
+
+.project-title {
+  font-size: 18px;
+  font-style: italic;
+}
+
+.about {
+  margin-top: -10rem;
+}
